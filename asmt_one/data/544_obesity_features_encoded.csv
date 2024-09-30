@@ -1,0 +1,6 @@
+Age,Height,Weight,FCVC,NCP,CH2O,FAF,TUE,Gender_Female,Gender_Male,family_history_with_overweight_no,family_history_with_overweight_yes,FAVC_no,FAVC_yes,CAEC_Always,CAEC_Frequently,CAEC_Sometimes,CAEC_no,SMOKE_no,SMOKE_yes,SCC_no,SCC_yes,CALC_Always,CALC_Frequently,CALC_Sometimes,CALC_no,MTRANS_Automobile,MTRANS_Bike,MTRANS_Motorbike,MTRANS_Public_Transportation,MTRANS_Walking
+21.0,1.62,64.0,2.0,3.0,2.0,0.0,1.0,True,False,False,True,True,False,False,False,True,False,True,False,True,False,False,False,False,True,False,False,False,True,False
+21.0,1.52,56.0,3.0,3.0,3.0,3.0,0.0,True,False,False,True,True,False,False,False,True,False,False,True,False,True,False,False,True,False,False,False,False,True,False
+23.0,1.8,77.0,2.0,3.0,2.0,2.0,1.0,False,True,False,True,True,False,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,True,False
+27.0,1.8,87.0,3.0,3.0,2.0,2.0,0.0,False,True,True,False,True,False,False,False,True,False,True,False,True,False,False,True,False,False,False,False,False,False,True
+22.0,1.78,89.8,2.0,1.0,2.0,0.0,0.0,False,True,True,False,True,False,False,False,True,False,True,False,True,False,False,False,True,False,False,False,False,True,False
